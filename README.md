@@ -1,4 +1,4 @@
-# Texting Ground
+# Vue Testing Ground
 
 This is an extenable Vue app that I can use to test ideas, hopefully quickly.
 
